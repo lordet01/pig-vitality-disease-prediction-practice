@@ -1,0 +1,47 @@
+{
+  "M0_baseline": {
+    "n": 666,
+    "positives": 25,
+    "auprc": 0.050744248571788705,
+    "auroc": 0.5740405616224649,
+    "threshold": 0.13049818228940535,
+    "sensitivity": 0.0,
+    "specificity": 0.9890795631825273,
+    "ppv": 0.0,
+    "alerts_per_100_pig_days": 1.0510510510510511,
+    "tp": 0,
+    "fp": 7,
+    "fn": 25,
+    "tn": 634
+  },
+  "M1_current_vitality": {
+    "n": 666,
+    "positives": 25,
+    "auprc": 0.4876548129770981,
+    "auroc": 0.9008424336973478,
+    "threshold": 0.050717633124211514,
+    "sensitivity": 0.4,
+    "specificity": 0.9906396255850234,
+    "ppv": 0.625,
+    "alerts_per_100_pig_days": 2.4024024024024024,
+    "tp": 10,
+    "fp": 6,
+    "fn": 15,
+    "tn": 635
+  },
+  "M2_change": {
+    "n": 666,
+    "positives": 25,
+    "auprc": 0.7593155807280461,
+    "auroc": 0.9818408736349454,
+    "threshold": 0.010882865485130995,
+    "sensitivity": 0.68,
+    "specificity": 0.9921996879875195,
+    "ppv": 0.7727272727272727,
+    "alerts_per_100_pig_days": 3.3033033033033035,
+    "tp": 17,
+    "fp": 5,
+    "fn": 8,
+    "tn": 636
+  }
+}
