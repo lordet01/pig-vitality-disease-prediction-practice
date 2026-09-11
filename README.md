@@ -36,12 +36,6 @@ python -m pip install -r requirements.txt
 python src/practice_start.py
 ```
 
-강사용 참고 결과를 생성하려면 다음을 실행합니다.
-
-```bash
-python src/solution_reference.py
-```
-
 ## 학생 제출물
 
 1. 데이터 품질 보고 4문장
