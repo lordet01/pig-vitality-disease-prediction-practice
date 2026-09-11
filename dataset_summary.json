@@ -1,0 +1,22 @@
+{
+  "seed": 20260911,
+  "n_pigs": 120,
+  "n_pens": 8,
+  "study_days": 42,
+  "raw_observation_rows": 5045,
+  "exact_duplicate_rows": 5,
+  "disease_events": 36,
+  "practice_rows": 4269,
+  "positive_rows": 105,
+  "positive_rate": 0.0246,
+  "split_counts": {
+    "train": 2860,
+    "validation": 743,
+    "test": 666
+  },
+  "positive_by_split": {
+    "test": 25,
+    "train": 52,
+    "validation": 28
+  }
+}
