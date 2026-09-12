@@ -1,0 +1,6 @@
+step,before,removed,after
+drop_duplicate_pig_days,5045,5,5040
+valid_True_only,5040,3,5037
+coverage_ge_70,5037,0,5037
+range_checks,5037,0,5037
+drop_core_missing,5037,254,4783
